@@ -70,7 +70,8 @@ El modelo **Random Forest** demostró un rendimiento superior, con una **exactit
 
 El modelo Random Forest nos permite identificar qué factores son más decisivos a la hora de predecir una cancelación. A continuación se muestra el gráfico con las 10 variables más importantes:
 
-*(Nota: Asegúrate de tener la imagen feature\_importance.png en una carpeta llamada assets en tu repositorio para que se muestre correctamente)*
+<img width="1192" height="702" alt="image" src="https://github.com/user-attachments/assets/c7cca7b5-3040-4c60-bdb4-637b333a5202" />
+
 
 ### **Conclusión Final**
 
