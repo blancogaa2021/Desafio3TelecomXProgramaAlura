@@ -2,13 +2,12 @@
 
 ### **📣 Historia del Desafío**
 
-¡Felicidades\! 🎉 Has sido promovido después de tu excelente desempeño en el análisis exploratorio de la cancelación de clientes en Telecom X. Tu dedicación, claridad al comunicar los datos y visión estratégica marcaron la diferencia.
+🎉 Despues de haber recibido una promoción por el desempeño en el análisis exploratorio de la cancelación de clientes en Telecom X. Tenemos la siguiente misión dentro de la organización Telecom X.
 
-Ahora, ¡has sido invitado oficialmente a formar parte del equipo de Machine Learning de la empresa\!
 
 ### **🎯 Misión**
 
-Tu nueva misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios. La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
+La misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios. La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
 
 ### **🧠 Objetivos del Desafío**
 
@@ -19,7 +18,7 @@ Tu nueva misión es desarrollar modelos predictivos capaces de prever qué clien
 * Interpretar los resultados, incluyendo la importancia de las variables.  
 * Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
 
-### **🧰 Lo que vas a practicar**
+### **🧰 Lo que se va a desarrollar**
 
 ✅ Preprocesamiento de datos para Machine Learning  
 ✅ Construcción y evaluación de modelos predictivos  
@@ -36,9 +35,8 @@ El objetivo principal de este proyecto es construir y evaluar modelos de machine
 
 El repositorio está organizado de la siguiente manera:
 
-* datos\_tratados.csv: El conjunto de datos limpio y preprocesado, listo para ser utilizado por los modelos.  
-* modelo\_predictivo\_churn.ipynb: El Jupyter Notebook que contiene todo el pipeline de machine learning, desde la carga de datos hasta la evaluación final y la interpretación de resultados.  
-* assets/: Carpeta que contiene las visualizaciones generadas, como el gráfico de importancia de variables.  
+* datos_tratados.csv: El conjunto de datos limpio y preprocesado, listo para ser utilizado por los modelos.  
+* TelecomX2LatamGBPredictivo.ipynb: El Jupyter Notebook que contiene todo el pipeline de machine learning, desde la carga de datos hasta la evaluación final y la interpretación de resultados.  
 * README.md: Este archivo, que documenta el proyecto.
 
 ### **Proceso de Preparación de los Datos**
